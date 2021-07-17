@@ -1,3 +1,4 @@
+![Slim Afterburner3](https://user-images.githubusercontent.com/87570274/126051430-5732e35e-b5ef-4e17-aa14-78bff31ab90e.png)
 # Slim-Afterburner
 My slimfit version of the Afterburner with 5015 fan  
 - great cooling with sunon 5015 fan 
