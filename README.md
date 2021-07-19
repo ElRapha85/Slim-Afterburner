@@ -5,6 +5,8 @@
 # Slim-Afterburner
 My slimfit version of the Afterburner with 5015 fan  
 - great cooling with sunon 5015 fan 
+(€ 11,33  20%OFF | Mellow Exklusive Sunon 3D Drucker Gebläse Fan 5015 24V 0,41 EINE Doppel Lager Fan Kreisel DC Kühlung Turbo Fan 5015S
+https://a.aliexpress.com/_ux5c6l) 
 - less front-heavy 
 - better view on the nozzle  
 - 40gr. lighter 
